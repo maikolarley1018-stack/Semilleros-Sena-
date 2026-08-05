@@ -45,7 +45,9 @@ Estará orientado al desarrollo de los siguientes módulos:
 El proyecto será desarrollado utilizando las siguientes tecnologías:
 
 -java
+
 -javaSwing
+
 -txt
 
 ---

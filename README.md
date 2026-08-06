@@ -2,7 +2,8 @@
 
 ## Descripción
 
-El Sistema de Gestión de Semilleros es una solución de software diseñada para automatizar, centralizar y optimizar la administración de los semilleros de investigación del área de Bienestar al Aprendiz. El proyecto busca mejorar el registro, seguimiento y control de las actividades desarrolladas por instructores, líderes de investigación y aprendices.
+El Sistema de Gestión de Semilleros es una solución de software diseñada para automatizar, centralizar y optimizar la administración de los semilleros de investigación del área de Bienestar al Aprendiz. El proyecto busca mejorar el registro, seguimiento y control de las actividades desarrolladas por instructores, líderes de investigación y aprendices asi se podra mejorar esta gestion y ayudar a todo el personal sena.
+
 
 ---
 
@@ -40,3 +41,46 @@ Estará orientado al desarrollo de los siguientes módulos:
 
 ---
 
+ feature-presentacion
+## Ruta tecnológica
+
+El proyecto será desarrollado utilizando las siguientes tecnologías:
+
+-java
+
+-javaSwing
+
+-txt
+
+---
+
+## Acuerdo de trabajo
+
+El equipo acuerda que:
+
+- La rama principal será **main**.
+- Todo cambio se desarrollará en la rama **feature-presentacion**.
+- Ningún integrante realizará modificaciones directamente sobre **main**.
+- Cada cambio deberá registrarse mediante commits con mensajes claros y descriptivos.
+- Todo Pull Request será revisado por otro integrante antes de realizar el Merge.
+
+---
+
+## Criterios de calidad
+
+Antes de fusionar una contribución, se verificará que:
+
+1. El contenido sea claro y correctamente documentado.
+2. No existan errores ortográficos.
+3. Los commits tengan mensajes descriptivos.
+4. No se publiquen datos sensibles ni información privada.
+5. Los cambios hayan sido revisados y aprobados mediante Pull Request.
+
+---
+
+## Fuentes consultadas
+- Guia java
+- Sitio oficial de Git
+- Documentación del proyecto Sistema de Gestión de Semilleros
+=======
+ main

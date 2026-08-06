@@ -2,7 +2,8 @@
 
 ## Descripción
 
-El Sistema de Gestión de Semilleros es una solución de software diseñada para automatizar, centralizar y optimizar la administración de los semilleros de investigación del área de Bienestar al Aprendiz. El proyecto busca mejorar el registro, seguimiento y control de las actividades desarrolladas por instructores, líderes de investigación y aprendices.
+El Sistema de Gestión de Semilleros es una solución de software diseñada para automatizar, centralizar y optimizar la administración de los semilleros de investigación del área de Bienestar al Aprendiz. El proyecto busca mejorar el registro, seguimiento y control de las actividades desarrolladas por instructores, líderes de investigación y aprendices asi se podra mejorar esta gestion y ayudar a todo el personal sena.
+
 
 ---
 
